@@ -1,0 +1,34 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "Husein Kasem",
+      "email": "husein.kasem@devoteam",
+      "age": 29
+    },
+    {
+      "id": "2",
+      "name": "Duke Asse",
+      "email": "duke.asse@devoteam",
+      "age": 32
+    },
+    {
+      "id": "3",
+      "name": "Jens Jens",
+      "email": "jens.jens@devoteam",
+      "age": 25
+    },
+    {
+      "id": "4",
+      "name": "William William",
+      "email": "william.william@devoteam",
+      "age": 24
+    },
+    {
+      "name": "Lilly",
+      "email": "lolo@gmail.com",
+      "age": 17,
+      "id": "bNH4yz1"
+    }
+  ]
+}
